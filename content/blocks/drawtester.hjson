@@ -1,0 +1,17 @@
+name: Draw Tester
+size: 1
+breakable: true
+//consumesTap: true
+category: effect
+requirements: [
+  copper/40
+]
+health: 500
+solid: true
+targetable: true
+//hasShadow: false
+buildVisibility: sandboxOnly
+configurable: true
+update: true
+expanded: true
+research: draw
