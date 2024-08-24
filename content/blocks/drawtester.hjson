@@ -15,3 +15,4 @@ configurable: true
 update: true
 expanded: true
 research: draw
+category: effect
