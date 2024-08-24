@@ -4,7 +4,7 @@ breakable: true
 //consumesTap: true
 category: effect
 requirements: [
-  bittrium/11
+  copper/1
 ]
 health: 500
 solid: true
@@ -14,3 +14,10 @@ buildVisibility: sandboxOnly
 configurable: true
 update: true
 expanded: true
+research: {
+  planet: serpulo
+  root: true
+  name: Draw Test
+  requiresUnlock: false
+}
+
