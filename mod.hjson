@@ -1,0 +1,8 @@
+{
+    "name": "drawpaint",
+    "displayName": "[#808080]Draw",
+    "author": "Ravi",
+    "description": "A mod that adds Draw.",
+    "version": "1.0",
+    "minGameVersion" : 136
+}
